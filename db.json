@@ -1,0 +1,34 @@
+{
+  "todos": [
+    {
+      "title": "shashi",
+      "status": false,
+      "id": 1
+    },
+    {
+      "title": "arjun kapoor",
+      "status": false,
+      "id": 2
+    },
+    {
+      "title": "shashi",
+      "status": false,
+      "id": 3
+    },
+    {
+      "title": "kumdan",
+      "status": false,
+      "id": 4
+    },
+    {
+      "title": "aditya kapoor",
+      "status": false,
+      "id": 5
+    },
+    {
+      "title": "abhishek",
+      "status": false,
+      "id": 6
+    }
+  ]
+}
